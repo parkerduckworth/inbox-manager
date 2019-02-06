@@ -4,9 +4,9 @@ Command-line interface to manage a cluttered mailbox.
 
 ## Code Example
 First, get you some credentials [here](https://developers.google.com/identity/protocols/OAuth2).
- - Copy your new creds into a file `credentials.json`, in the `inbox_manager` package.
+> Copy your new creds into a file `credentials.json`, in the `inbox_manager` package.
 
-Then just import the package, construct a manager, and pass a target label to `remove`.
+Then just import the package, construct a manager, and pass a target label to `remove`. (Python 3 is required)
 ```python
 from inbox_manager import InboxManager
 
