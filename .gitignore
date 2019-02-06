@@ -1,0 +1,12 @@
+# Gmail API
+credentials.json
+token.pickle
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__
